@@ -12,4 +12,5 @@ int main()
     DeleteTask();
 
     return 0;
-}
+}//
+comment

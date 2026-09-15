@@ -1,7 +1,7 @@
-#include <iostream>
-#include "TaskManager.h"
-
-using namespace std;
+void EditTask()
+{
+    cout << "Task edited successfully." << endl;
+}
 
 int main()
 {
